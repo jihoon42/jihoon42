@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<br>
+<p>🏆 Baekjoon solved Rank 🏆</p>
+	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=borz)](https://solved.ac/borz/)
 </div>
+<br>
